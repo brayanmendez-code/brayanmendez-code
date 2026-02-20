@@ -20,7 +20,7 @@
 
 ### 🔹 Sistema de Gestión de Empleados – Java
 Aplicación de escritorio con operaciones CRUD conectada a MySQL mediante JDBC.  
-📎 Ver proyecto: https://github.com/brayanmendez-code/sistema-gestion-empleados
+📎 Ver proyecto: https://github.com/brayanmendez-code/sistema-gestion-empleados-java
 
 ### 🔹 Análisis Exploratorio de Ventas – Python
 Análisis de datos comerciales con generación de dashboard interactivo en HTML.  
