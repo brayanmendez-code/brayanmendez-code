@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Brayan Mendez
 
-<!--
-**brayanmendez-code/brayanmendez-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información  
+📍 Cartagena, Colombia  
+💻 Interesado en Desarrollo de Software y Análisis de Datos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+
+- Java (Swing, JDBC)
+- Python (Pandas, Plotly)
+- MySQL
+- SQL
+- Excel
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🔹 Sistema de Gestión de Empleados – Java
+Aplicación de escritorio con operaciones CRUD conectada a MySQL mediante JDBC.  
+📎 Ver proyecto: https://github.com/brayanmendez-code/sistema-gestion-empleados
+
+### 🔹 Análisis Exploratorio de Ventas – Python
+Análisis de datos comerciales con generación de dashboard interactivo en HTML.  
+📎 Ver proyecto: https://github.com/brayanmendez-code/analisis-ventas-python
+
+---
+
+## 📫 Contacto
+
+✉️ brayanmendez001@gmail.com  
+📱 314 676 8727
